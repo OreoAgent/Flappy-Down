@@ -1,2 +1,2 @@
 # Flappy-Down
-The BEST remake of flappy bird made with CHATGBT
+The BEST remake of flappy bird made with CHATGPT
