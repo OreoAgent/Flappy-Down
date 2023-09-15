@@ -18,3 +18,7 @@ Itty Bitty 8 Bit by Kevin MacLeod is licensed under a Creative Commons Attributi
 Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100764
 
 Artist: http://incompetech.com/
+
+Dev Notes:
+    1) I am having issues making the new version (DevVer 4.5) and getting it to a .exe while keeping the audio files working. I am currently working on a fix.
+
