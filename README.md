@@ -1,5 +1,5 @@
 # Flappy-Down
-The BEST remake of flappy bird made with CHATGPT
+The BEST remake of flappy bird made with... Hang on a second, i made it... WOOOOOOO.
 
 LOOK AT THE RELEASES FOR THE .EXE ----->
 
